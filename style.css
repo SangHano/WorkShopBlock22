@@ -1,0 +1,22 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#party-form{
+    background-color: aquamarine;
+    font-weight: bold;
+    text-decoration: underline;
+    font-style: italic;
+    color: rgb(13, 13, 12);
+}
+h1{
+    font-size: 30px;
+    text-decoration: underline;
+    font-style: italic;
+    background-color: aquamarine;
+}
+#party-container{
+    background-color: blanchedalmond;
+
+}
